@@ -14,9 +14,11 @@ curl -sSL https://raw.githubusercontent.com/RomanTrifanov/Remnawave_custom/refs/
      -o user-statuses.ts || { echo "Ошибка загрузки файла!"; exit 1; }
 
 # Копируем файл в целевой контейнер
-docker cp user-statuses.ts "${CONTAINER}:/opt/app/libs/contract/constants/templates/user-statuses.ts" && rm user-statuses.ts || {
+docker cp user-statuses.ts "${CONTAINER}:/opt/app/libs/contract/constants/templates/user-statuses.ts" || {
     echo "Ошибка копирования файла в контейнер!"
     exit 1
 }
+
+# && rm user-statuses.ts 
 
 echo "Файл user-statuses.ts успешно заменён внутри контейнера ${CONTAINER}"
