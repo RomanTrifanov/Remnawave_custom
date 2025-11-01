@@ -19,6 +19,8 @@ curl -sSL https://raw.githubusercontent.com/RomanTrifanov/Remnawave_custom/refs/
 #    exit 1
 #}
 
+# - ./user-statuses.ts:/opt/app/libs/contract/constants/templates/user-statuses.ts
+
 # && rm user-statuses.ts 
 
 echo "Файл user-statuses.ts успешно заменён внутри контейнера ${CONTAINER}"
