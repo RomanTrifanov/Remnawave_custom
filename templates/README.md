@@ -1,9 +1,9 @@
-### Убираем слова 'Active', 'Expired', 'Disabled', 'Limited' из шаблона статусов пользователя {{ STAUS }} в Remnawave.
+### Убираем слова 'Active', 'Expired', 'Disabled', 'Limited' из шаблона статусов пользователя {{ STATUS }} в Remnawave.
 
 
 Данный скрипт скачает из репозитория файл **user-statuses.mod** в директорию **/opt/remnawave/** и заменит им файл **user-statuses.js** в контейнере **remnawave**.
 
-Если ваш контейнер имеет другое имя или директория отличается от /opt/remnawave/ - измените скипт.
+Если ваш контейнер имеет другое имя или директория отличается от /opt/remnawave/ - измените скрипт.
 
 >[!WARNING]
 >
@@ -21,7 +21,7 @@ curl -fsSL https://raw.githubusercontent.com/RomanTrifanov/Remnawave_custom/refs
 
 При пересоздании контейнера командой `docker compose down && docker compose up -d` или обновлении, изменения будут отменены и файл **user-statuses.js** вернется к оригинальному состоянию и будет соответствовать актуальному файлу из официального репозитория remnawave.
 
-Для сохранения изменений придется примонтировать модифицированый файл **user-statuses.mod**в контейнер **remnawave**
+Для сохранения изменений придется примонтировать модифицированный файл **user-statuses.mod**в контейнер **remnawave**
 
 ```
         volumes:

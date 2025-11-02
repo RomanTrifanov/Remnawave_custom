@@ -19,7 +19,7 @@ curl -sSL https://raw.githubusercontent.com/RomanTrifanov/Remnawave_custom/refs/
 # Копируем оригинальный файл из контейнер (резервная копия)
 docker cp "${CONTAINER}:/opt/app/dist/libs/contract/constants/templates/user-statuses.js" ./user-statuses.js.origin_$(date +%Y-%m-%d_%H-%M-%S)
 
-# Копируем модифицированый файл в целевой контейнер
+# Копируем модифицированный файл в целевой контейнер
 docker cp user-statuses.mod "${CONTAINER}:/opt/app/dist/libs/contract/constants/templates/user-statuses.js" || {
     echo "Ошибка копирования файла в контейнер!"
     exit 1
