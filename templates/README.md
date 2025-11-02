@@ -1,5 +1,8 @@
 ### Убираем слова 'Active', 'Expired', 'Disabled', 'Limited' из шаблона статусов пользователя {{ STATUS }} в Remnawave.
 
+<img width="300" height="138" alt="Снимок экрана от 2025-11-02 15-01-34" src="https://github.com/user-attachments/assets/0406d8bc-b87e-4933-bfb9-fd76defba19c" /> <img width="299" height="138" alt="Снимок экрана от 2025-11-02 14-57-25" src="https://github.com/user-attachments/assets/c5d9e9b3-26af-4b8c-85ea-458a5c25d835" />
+
+
 
 Данный скрипт скачает из репозитория файл **user-statuses.mod** в директорию **/opt/remnawave/** и заменит им файл **user-statuses.js** в контейнере **remnawave**.
 
