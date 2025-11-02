@@ -54,3 +54,14 @@ curl -fsSL https://raw.githubusercontent.com/RomanTrifanov/Remnawave_custom/refs
             - ./user-statuses.mod:/opt/app/dist/libs/contract/constants/templates/user-statuses.js
 ...
 ```
+
+> [!TIP]
+> Поддержать автора криптой:
+> 
+>- USDT (TRC20) `TXRt5vuc4E32XCwkBQvykFUDZQnqnTLhdK`
+>
+>- USDT (TON) `UQB2LfFr7MfUDCn-m3f9uWwLMNsnnfljyS7p0JRIe-bvn8T9`
+>
+>- Toncoin (TON) `UQB2LfFr7MfUDCn-m3f9uWwLMNsnnfljyS7p0JRIe-bvn8T9`
+>
+>- Solana (SOL)`FoBcJc8WRh7PAr6FN4UmFsm8rpZrhHfx44F7j8SurEM7`
