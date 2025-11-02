@@ -56,12 +56,30 @@ curl -fsSL https://raw.githubusercontent.com/RomanTrifanov/Remnawave_custom/refs
 ```
 
 > [!TIP]
-> Поддержать автора криптой:
+> Если это то, чего Вам очень не хватало - можете поддержать автора )
 > 
->- USDT (TRC20) `TXRt5vuc4E32XCwkBQvykFUDZQnqnTLhdK`
+> Часть средств пойдет в поддержку Remnawave
+> 
+> **Крипта**:
+> 
+>- USDT (TRC20) ```TXRt5vuc4E32XCwkBQvykFUDZQnqnTLhdK```
+><img width="160" height="160" alt="Снимок экрана от 2025-11-02 14-09-37" src="https://github.com/user-attachments/assets/41fa43c5-d995-4cf3-aa3d-a1241996b8e1" />
 >
->- USDT (TON) `UQB2LfFr7MfUDCn-m3f9uWwLMNsnnfljyS7p0JRIe-bvn8T9`
+>----------
+>- USDT (TON) ```UQB2LfFr7MfUDCn-m3f9uWwLMNsnnfljyS7p0JRIe-bvn8T9```
+><img width="160" height="160" alt="Снимок экрана от 2025-11-02 14-10-49" src="https://github.com/user-attachments/assets/53a44ed2-a52b-4dbb-b315-97e983a83224" />
 >
->- Toncoin (TON) `UQB2LfFr7MfUDCn-m3f9uWwLMNsnnfljyS7p0JRIe-bvn8T9`
+>----------
+>- Toncoin (TON) ```UQB2LfFr7MfUDCn-m3f9uWwLMNsnnfljyS7p0JRIe-bvn8T9```
+><img width="160" height="160" alt="Снимок экрана от 2025-11-02 14-30-47" src="https://github.com/user-attachments/assets/21497acf-9ea3-4b2c-a93c-6719bc94f628" />
 >
->- Solana (SOL)`FoBcJc8WRh7PAr6FN4UmFsm8rpZrhHfx44F7j8SurEM7`
+>----------
+>- Solana (SOL) ```FoBcJc8WRh7PAr6FN4UmFsm8rpZrhHfx44F7j8SurEM7```
+><img width="160" height="160" alt="Снимок экрана от 2025-11-02 14-13-53" src="https://github.com/user-attachments/assets/0e9be946-9e61-4fa2-92a2-1ece8c7e578c" />
+>
+>----------
+> **Т-Банк**
+>
+>- https://www.tbank.ru/cf/9qIrMkXPGlO
+>
+><img width="160" height="160" alt="Снимок экрана от 2025-11-02 14-23-54" src="https://github.com/user-attachments/assets/f388a4d8-2d95-4d50-a0db-216ff64d3a80" />
